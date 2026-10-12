@@ -1,0 +1,14 @@
+# Security
+.env
+
+# Python Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# PyCharm Settings
+.idea/
+
+# Next.js & Node
+track-predict-web/node_modules/
+track-predict-web/.next/
